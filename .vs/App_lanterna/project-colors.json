@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d21d2ecc-a96f-4601-8ea3-f0fcb44a723a": {
+      "ProjectGuid": "d21d2ecc-a96f-4601-8ea3-f0fcb44a723a",
+      "DisplayName": "App_lanterna",
+      "ColorIndex": 0
+    },
+    "4e88eaf7-9538-4fdb-9aa8-a69d67bba32f": {
+      "ProjectGuid": "4e88eaf7-9538-4fdb-9aa8-a69d67bba32f",
+      "DisplayName": "App_lanterna.Android",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
